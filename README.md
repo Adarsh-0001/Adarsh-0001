@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Full Stack Developement. Intermediate scholar of Java, Python, C++ and C programming languages. Also having good knowledge of use of HTML and CSS. 
-- 👯 I’m looking for internship which not only enhance my resume but improve my knowledge and company's required skills in me. With above skilss I'm open to work.
+- 🌱 I’m currently learning Full Stack Developement. Intermediate scholar of Java, Python, C++ and C programming languages. Also having good knowledge of use of HTML and CSS as well as JavaScript. 
+- 👯 I’m looking for internship which not only enhance my resume but improve my knowledge and company's required skills in me. With above skills I'm open to work.
 - 📫 to reach me you can add me on my social media pages that are
       Linkedin: https://www.linkedin.com/in/adarsh-srivastava-5646101b8/
       Facebook: https://www.facebook.com/adarsh.srivastava.96155669
