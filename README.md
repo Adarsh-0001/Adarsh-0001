@@ -1,5 +1,5 @@
 ### Hi there 👋
-![I love my INDIA](/images/tiranga.jpg)
+![I love my INDIA](http://url/to/tiranga.jpg)
 
 <!--
 **Adarsh-0001/Adarsh-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
