@@ -20,5 +20,6 @@ Here are some ideas to get you started:
       Linkedin: https://www.linkedin.com/in/adarsh-srivastava-5646101b8/ <br>
       Facebook: https://www.facebook.com/adarsh.srivastava.96155669 <br>
       Leetcode: https://leetcode.com/Adarsh-0001/ <br>
-      Email: adarshraghvendra@gmail.com
+      Email: adarshraghvendra@gmail.com <br>
+      Instagram : https://www.instagram.com/khurafatiadi/
       
