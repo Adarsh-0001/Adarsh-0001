@@ -1,21 +1,23 @@
-### Hi there 🤚
+# 🚀 Tech Enthusiast & Web Developer 💻
 
-<!--
-**Adarsh-0001/Adarsh-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Adarsh Srivastava, a passionate tech enthusiast with a diverse skill set in web development. From HTML, CSS, and JavaScript to Node.js, Java, and PHP, I love crafting digital experiences that make an impact.
 
-Here are some ideas to get you started:
+## 🎓 Internship Experience: 
+Collaborated with the computer department at UP Cooperative Sugarcane Factories, contributing to the creation of a robust "Sugarcane Management System" using HTML, PHP, MySQL, and XAMPP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning Full Stack Developement. Intermediate scholar of Java, Python, C++ and C programming languages. Also having good knowledge of use of HTML and CSS as well as JavaScript. 
-- 👯 I’m looking for internship which not only enhance my resume but improve my knowledge and company's required skills in me. With above skills I'm open to work.
+## 💼 Professional Journey: 
+Started as a Social Media Manager at Ions India Homeopathy, Lucknow, where I honed my skills in content creation and social media strategy. Evolved into a WordPress Editor, managing, manipulating, and writing content for the website, along with performing on-page SEO.
+
+## 🌐 Web Wizardry: 
+Proficient in working with XAMPP servers, MySQL databases, and adept at creating seamless web experiences.
+
+## 🤝 Customer-Centric: 
+Developed strong office skills and customer service expertise, ensuring a smooth and professional interaction with clients.
+
+### 🔗 Let's connect and explore the endless possibilities of the digital realm together! 🌟
+
+#WebDeveloper #TechEnthusiast #DigitalWizard
+
 - 📫 to reach me you can add me on my social media pages that are: <br>
       Linkedin: https://www.linkedin.com/in/adarsh-srivastava-5646101b8/ <br>
       Facebook: https://www.facebook.com/adarsh.srivastava.96155669 <br>
