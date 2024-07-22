@@ -3,7 +3,7 @@
 👋 Hi there! I'm Adarsh Srivastava, a passionate tech enthusiast with a diverse skill set in web development. From HTML, CSS, and JavaScript to Node.js, Java, and PHP, I love crafting digital experiences that make an impact.
 
 ## 🎓 Internship Experience: 
-Collaborated with the computer department at UP Cooperative Sugarcane Factories, contributing to the creation of a robust "Sugarcane Management System" using HTML, PHP, MySQL, and XAMPP.
+Collaborated with the computer department at Uttar Pradesh Cooperative Sugarcane Factories Federation LTD, Lucknow contributing to the creation of a robust "Sugarcane Management System" using HTML, PHP, MySQL, and XAMPP.
 
 ## 💼 Professional Journey: 
 Started as a Social Media Manager at Ions India Homeopathy, Lucknow, where I honed my skills in content creation and social media strategy. Evolved into a WordPress Editor, managing, manipulating, and writing content for the website, along with performing on-page SEO.
